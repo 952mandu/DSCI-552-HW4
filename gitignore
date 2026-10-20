@@ -1,0 +1,11 @@
+# Dataset (download separately from UCI)
+AReM/
+*.zip
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+
+# macOS
+.DS_Store
+__MACOSX/
